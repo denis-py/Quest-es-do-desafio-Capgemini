@@ -27,4 +27,4 @@ Desafio 3 - O desafio 3 identifica se uma palavra é anagrama de si mesma, poden
 
 Conclusão
 
-Os desafios foram de extrema importância para identificar o pontecial de 'codar', e estimula a criatividade e a capacidade de lidar com diversos problemas diferentes
+Os desafios foram de extrema importância para identificar o pontecial de 'codar', e estimular a criatividade e a capacidade de lidar com diversos problemas diferentes
