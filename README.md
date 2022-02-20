@@ -12,7 +12,7 @@ Executando
 Após instalado, abra o Pycharm, clique em "Do not support settings", clique em new project, selecione o diretório que deseja armazenar a aplicação e depois em create, no canto inferior direito. No espaço onde estão os arquivos e as pastas, ao lado direito, clique com o botão do lado direito do cursor, selecione new -> new pyhon file , digite o nome do arquivo e pressione enter
 
 Compilando o código
-Copie e cole o código do projeto que se encontra nesse repositório ou acesse o link: https://github.com/denis-py/cadastro-de-anuncios/blob/main/Desafio.py
+Copie e cole algum dos códigos do projeto que se encontram nesse repositório ou acesse o link: https://github.com/denis-py/Questoes-do-desafio-Capgemini
 
 Clique na aba do projeto com o botão do lado direito do cursor e selecione a opção "Run"
 
