@@ -1,4 +1,4 @@
-# Quest-o-01---Capgemini
+# Questão 01 Capgemini
 Instalação
 Instalando o python: Para instalar o Python, basta clicar nesse link: https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
 
@@ -17,15 +17,5 @@ Copie e cole o código do projeto que se encontra nesse repositório ou acesse o
 Clique na aba do projeto com o botão do lado direito do cursor e selecione a opção "Run"
 
 Instruções de uso
-O programa se inicia em uma tela de Menu contendo as opções de cadastro, relatório, busca e encerramento da aplicação
+O programa tem a finalidade de montar uma meia pirâmide de asteriscos, basta o usuário digitar quantos terão em sua base para que seja formado o mesmo
 
-Cadastro: O cadastro é a opção 1 e permite o usuário cadastrar os anún. O usuário irá informar o nome do anúncio, nome do cliente, o período em que irá investir, e o valor unitário aplicado diariamente
-
-Relatório: O relatório é a opção 2 e permite ao usuário listar os anúncios previamente cadastrados
-
-Buscar: A busca é a opção 3 e permite ao usuário buscar o anúncio por meio do nome do cliente ou pelo período de investimento
-
-Sair: A última opção encerra a aplicativo
-
-Conclusão
-O sistema criado prestará apoio a agência Divulga Tudo e efetuará o gerenciamento de anúncios da empresa compreendendo os requisitos desejados da mesma
