@@ -1,4 +1,4 @@
-# Questão 01 Capgemini
+# Questões 1 a 3 do desafio de programação Capgemini
 Instalação
 Instalando o python: Para instalar o Python, basta clicar nesse link: https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
 
@@ -17,5 +17,10 @@ Copie e cole o código do projeto que se encontra nesse repositório ou acesse o
 Clique na aba do projeto com o botão do lado direito do cursor e selecione a opção "Run"
 
 Instruções de uso
-O programa tem a finalidade de montar uma meia pirâmide de asteriscos, basta o usuário digitar quantos terão em sua base para que seja formado o mesmo
+Desafio 1 - O programa tem a finalidade de montar uma meia pirâmide de asteriscos, basta o usuário digitar quantos terão em sua base para que seja formado o mesmo
+
+Desafio 2 - O sistema consiste em na criação de uma senha segura para que o usuário possa manter seus dados em segurança, basta entrar com uma palavra e o sistema irá sugerir se
+será necessária uma melhoria para que a senha se torne mais segura, ou se a senha que o usuário digitou está de acordo com os parâmetros de segurança
+
+Desafio 3 - O desafio 3 identifica se uma palavra é anagrama de si mesma, podendo distinguir quantos o são
 
