@@ -17,6 +17,7 @@ Copie e cole o código do projeto que se encontra nesse repositório ou acesse o
 Clique na aba do projeto com o botão do lado direito do cursor e selecione a opção "Run"
 
 Instruções de uso
+
 Desafio 1 - O programa tem a finalidade de montar uma meia pirâmide de asteriscos, basta o usuário digitar quantos terão em sua base para que seja formado o mesmo
 
 Desafio 2 - O sistema consiste em na criação de uma senha segura para que o usuário possa manter seus dados em segurança, basta entrar com uma palavra e o sistema irá sugerir se
@@ -24,3 +25,5 @@ será necessária uma melhoria para que a senha se torne mais segura, ou se a se
 
 Desafio 3 - O desafio 3 identifica se uma palavra é anagrama de si mesma, podendo distinguir quantos o são
 
+Conclusão
+Os desafios foram de extrema importância para identificar o pontecial de 'codar', e estimula a criatividade e a capacidade de lidar com diversos problemas diferentes
