@@ -26,4 +26,5 @@ será necessária uma melhoria para que a senha se torne mais segura, ou se a se
 Desafio 3 - O desafio 3 identifica se uma palavra é anagrama de si mesma, podendo distinguir quantos o são
 
 Conclusão
+
 Os desafios foram de extrema importância para identificar o pontecial de 'codar', e estimula a criatividade e a capacidade de lidar com diversos problemas diferentes
